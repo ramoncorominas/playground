@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "firefox-devtools.vscode-firefox-debug",
+        "ritwickdey.liveserver",
+        "dbaeumer.vscode-eslint",
+        "deque-systems.vscode-axe-linter"
+    ]
+}
